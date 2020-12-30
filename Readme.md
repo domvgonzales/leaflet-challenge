@@ -1,4 +1,4 @@
-# Unit 17 | Assignment - Visualizing Data with Leaflet
+# Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
 
@@ -8,9 +8,21 @@ Welcome to the United States Geological Survey, or USGS for short! The USGS is r
 
 The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet.
 
+### Before You Begin
+
+1. Create a new repository for this project called `leaflet-challenge`. **Do not add this homework to an existing repository**.
+
+2. Clone the new repository to your computer.
+
+3. Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: **Leaflet-Step-1** and **Leaflet-Step-2**.
+
+4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
+
+5. Push the above changes to GitHub or GitLab.
+
 ## Your Task
 
-### Step 1: Basic Visualization
+### Level 1: Basic Visualization
 
 ![2-BasicMap](Images/2-BasicMap.png)
 
@@ -38,7 +50,7 @@ Your first task is to visualize an earthquake data set.
 
 - - -
 
-### Step 2: More Data
+### Level 2: More Data (Optional)
 
 ![5-Advanced](Images/5-Advanced.png)
 
@@ -54,42 +66,20 @@ In this step we are going to..
 
 - - -
 
-### Step 3: Time Keeps on Ticking
-
-![7-NotGif](Images/6-Time_Keeps_On_Ticking.gif)
-
-Many people don't know how much seismic activity is happening around them all the time. Did you know that Southern California has over 10,000 earthquakes each year alone? The USGS wants you to create a map that will visualize just how many earthquakes happen over the course of a day/week.
-
-* Your task is to use a Leaflet plugin (they can be found at <http://leafletjs.com/plugins.html>) to visualize your earthquake as it takes place over a period of time.
-
-- - -
-
-### Bonus: Above and Beyond
-
-You're so excited to be in your new position you really want to do something that will blow them away. You came up with two ideas of ways to go above and beyond:
-
-* Find another set of geospatial data that you can use to show a new correlation or insight about our existing earthquake data.
-
-* Use additional plug-ins from the [Leaflet Documentation](http://leafletjs.com/plugins.html) to further visualize our data in a unique way.
-
-  * Heatmap
-    ![Heat](Images/Heat.png)
-
-  * Data Clustering
-    ![Cluster](Images/Cluster.png)
-
 ### Assessment
 
 Your final product will be assessed on the following metrics:
 
-* Completion of all steps in chosen level
+* Completion of assigned tasks
 
-* Visual attraction
+* Visual appearance
 
 * Professionalism
 
+* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
+
 **Good luck!**
 
-## Copyright
+### Copyright
 
-Coding Boot Camp (C) 2016. All Rights Reserved.
+Trilogy Education Services © 2019. All Rights Reserved.
